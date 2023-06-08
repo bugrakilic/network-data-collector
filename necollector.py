@@ -1,3 +1,5 @@
+# This app is to collect data from various types of network elements. 
+
 from netmiko import ConnectHandler
 
 # Define the device to connect to

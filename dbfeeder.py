@@ -1,3 +1,5 @@
+# This app is to store all data, gathered from network elements, to the database. 
+
 import sqlite3
 from netmiko import ConnectHandler
 
