@@ -1,4 +1,4 @@
-# network-entity-collector
+# network-data-collector
  
 This project consists of retrieving user-requested data from network element and database. 
 
